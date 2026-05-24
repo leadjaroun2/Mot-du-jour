@@ -1,0 +1,22 @@
+[
+  {"niveau": "A1", "fr": "être", "en": "to be"},
+  {"niveau": "A1", "fr": "avoir", "en": "to have"},
+  {"niveau": "A1", "fr": "aller", "en": "to go"},
+  {"niveau": "A1", "fr": "faire", "en": "to do"},
+  {"niveau": "A1", "fr": "dire", "en": "to say"},
+  {"niveau": "A1", "fr": "pouvoir", "en": "to be able to"},
+  {"niveau": "A1", "fr": "vouloir", "en": "to want"},
+  {"niveau": "A1", "fr": "voir", "en": "to see"},
+  {"niveau": "A1", "fr": "savoir", "en": "to know"},
+  {"niveau": "A1", "fr": "devoir", "en": "must"},
+  {"niveau": "A1", "fr": "maison", "en": "house"},
+  {"niveau": "A1", "fr": "école", "en": "school"},
+  {"niveau": "A1", "fr": "ami", "en": "friend"},
+  {"niveau": "A1", "fr": "grand", "en": "big"},
+  {"niveau": "A1", "fr": "petit", "en": "small"},
+  {"niveau": "A2", "fr": "voyage", "en": "trip"},
+  {"niveau": "A2", "fr": "travailler", "en": "to work"},
+  {"niveau": "A2", "fr": "manger", "en": "to eat"},
+  {"niveau": "A2", "fr": "boire", "en": "to drink"},
+  {"niveau": "A2", "fr": "toujours", "en": "always"}
+]
